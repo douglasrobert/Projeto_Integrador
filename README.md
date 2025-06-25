@@ -1,5 +1,3 @@
-# Projeto_Integrador
-
 # 🌱 Projeto MDF Sustentável
 
 Esta é uma aplicação web desenvolvida para apoiar a iniciativa de produção de placas ecológicas a partir de resíduos de MDF e bio-resinas. O objetivo é promover a sustentabilidade e reduzir o impacto ambiental por meio do reaproveitamento de materiais descartados.
@@ -24,5 +22,35 @@ Esta é uma aplicação web desenvolvida para apoiar a iniciativa de produção 
 ## 🚀 Como Executar
 
 1. Clone o repositório:
-   ```bash
+
+   bash
    git clone https://github.com/seu-usuario/projeto-mdf-sustentavel.git
+
+
+3. Acesse o diretório:
+
+   bash
+   cd projeto-mdf-sustentavel
+   
+
+4. Abra o arquivo `index.html` em seu navegador.
+
+## 📸 Captura de Tela
+
+![Página Principal](./img/placa-mdf-sustentavel.png)
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias.
+
+## 📫 Contato
+
+Email: [contato@mdfsustentavel.org](mailto:contato@mdfsustentavel.org)
+Redes sociais: @ProjetoMDF
+
+---
+
+**Desenvolvido com propósito ecológico 🌍**
+
+```
+

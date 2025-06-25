@@ -24,7 +24,7 @@ Esta é uma aplicação web desenvolvida para apoiar a iniciativa de produção 
 1. Clone o repositório:
 
    bash
-   git clone [https://github.com/douglasrobert/Projeto_Integrador]
+   git clone https://github.com/douglasrobert/Projeto_Integrador
 
 3. Acesse o diretório:
 

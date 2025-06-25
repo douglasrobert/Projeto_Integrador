@@ -47,9 +47,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 Email: [contato@mdfsustentavel.org](mailto:contato@mdfsustentavel.org)
 Redes sociais: @ProjetoMDF
 
----
 
 **Desenvolvido com propósito ecológico 🌍**
-
-```
-
